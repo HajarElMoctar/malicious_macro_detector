@@ -119,6 +119,30 @@ python app.py
 
 ## 📷 UI Preview
 
+Main Page:
+
+![macro detector main page](https://github.com/user-attachments/assets/2533a33a-0cae-4483-8901-5c98d7ac5a3e)
+
+After dropping a document (analysing):
+
+![macro detector analysing](https://github.com/user-attachments/assets/a0f9da00-ccbe-449c-90da-456b3762cd60)
+
+Report Results:
+
+![macro detector results](https://github.com/user-attachments/assets/0fc29f6b-fc98-4471-9b16-50d9bb08d0a9)
+
+Chat Box:
+
+![macro detector chat box](https://github.com/user-attachments/assets/5a9274ca-856b-4286-ac9a-f12246e47802)
+
+AI Chat Response: 
+
+![macro detector chat response](https://github.com/user-attachments/assets/16c541a1-9c0c-4321-9a7b-badbd5db9b06)
+
+Sample PDF Report downloaded:
+
+![macro detector sample pdf](https://github.com/user-attachments/assets/381c72df-252b-41dd-807c-6d3dd572422a)
+
 ---
 
 ## 🙌 Acknowledgments
